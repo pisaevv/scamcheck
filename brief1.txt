@@ -1,0 +1,5 @@
+You are the advisor, not the builder. Do not change any file in this folder except the one you are asked to write. Do not commit or push.
+
+Read NOTES.md. I'm building this today with Claude Code sessions; I decide, they write the code.
+
+Write PLAN.md: what the tool should check and how, in what order to build it so that something works early and the rest is added on top, which interface fits best and why, and what to leave out. Where NOTES.md assumes something you think is wrong, say so. Keep it plain; I'm a beginner coder.
